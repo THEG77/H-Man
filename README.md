@@ -3,6 +3,8 @@
 ## Available online
  Goto https://h-man-with-react.herokuapp.com/ to play it
 
+ (May take a minute for heroku to wake up and load the page)
+ 
 ## Run it locally
  * Download or Clone the repo
  * Run `npm init`
